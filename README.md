@@ -17,3 +17,11 @@ To run this program, you may use Remix (https://remix.ethereum.org/) and clone t
 After cloning, compile MyToken.sol using 0.8.18 compiler then deploy it on "Remix VM"
 
 Once it has been deployed, you could now play with the smart contract under "Deployed Contracts"
+
+## Author
+
+CEDoromal (cesdoromal@mymail.mapua.edu.ph)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
